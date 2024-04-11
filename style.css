@@ -1,0 +1,25 @@
+* {
+  list-style: none;
+}
+body {
+  background: url(./style/Image/Design\ sans\ titre.png) center/cover;
+  min-height: 100vh;
+}
+h1 {
+  letter-spacing: 3px;
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(66, 135, 245);
+}
+p {
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  box-sizing: border-box;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  background-color: rgba(240, 240, 241, 0.5);
+  max-width: max-content;
+  text-decoration: underline;
+  border-radius: 10px;
+}
